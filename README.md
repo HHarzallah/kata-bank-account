@@ -1,2 +1,1 @@
-# kata-bank-account
-kata-bank-account
+# Kata Bank Account Solution
