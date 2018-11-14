@@ -21,6 +21,7 @@ public class Account {
 
     public void setBalance(double balance) {
         this.balance = balance;
+        this.date = new Date();
     }
 
     public Date getDate() {

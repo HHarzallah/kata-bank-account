@@ -56,33 +56,96 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="1" />
+          <entry key="java" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4" />
+          <entry key="java" value="520" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="520" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/hharzallah/katabank/BankTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+            <state relative-caret-position="284">
+              <caret line="107" column="26" lean-forward="true" selection-start-line="107" selection-start-column="26" selection-end-line="107" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hharzallah/katabank/services/BankService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#450#461#0" expanded="true" />
+                <element signature="e#2749#2750#0" expanded="true" />
+                <element signature="e#2779#2780#0" expanded="true" />
+                <element signature="e#1766#1767#0" expanded="true" />
+                <element signature="e#1799#1800#0" expanded="true" />
+                <element signature="e#1846#1847#0" expanded="true" />
+                <element signature="e#1884#1885#0" expanded="true" />
+                <element signature="e#1950#1951#0" expanded="true" />
+                <element signature="e#1994#1995#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hharzallah/katabank/commons/BankException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#122#123#0" expanded="true" />
+                <element signature="e#145#146#0" expanded="true" />
+                <element signature="e#225#226#0" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hharzallah/katabank/enums/OperationType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="18" column="34" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="34" />
+              <folding>
+                <element signature="e#324#325#0" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#418#419#0" expanded="true" />
+                <element signature="e#468#469#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hharzallah/katabank/entities/Account.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -108,11 +171,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/hharzallah/katabank/enums/OperationType.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hharzallah/katabank/common/Utils.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/hharzallah/katabank/OperationTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hharzallah/katabank/entities/Account.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hharzallah/katabank/services/BankService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hharzallah/katabank/entities/Operation.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hharzallah/katabank/commons/Utils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hharzallah/katabank/entities/Account.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hharzallah/katabank/commons/BankException.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/hharzallah/katabank/BankTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hharzallah/katabank/services/BankService.java" />
       </list>
     </option>
   </component>
@@ -255,6 +319,17 @@
               <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="hharzallah" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="katabank" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="commons" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="katabank" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="katabank" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="hharzallah" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="katabank" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="entities" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
@@ -284,40 +359,6 @@
               <item name="katabank" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="katabank" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="katabank" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="katabank" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="katabank" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="katabank" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="katabank" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="hharzallah" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="katabank" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="katabank" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="hharzallah" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="katabank" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -360,7 +401,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BankTest.checkDeposit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BankTest.checkNotNegativeDeposit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="katabank" />
       <extension name="coverage">
         <pattern>
@@ -370,7 +411,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.hharzallah.katabank" />
       <option name="MAIN_CLASS_NAME" value="com.hharzallah.katabank.BankTest" />
-      <option name="METHOD_NAME" value="checkDeposit" />
+      <option name="METHOD_NAME" value="checkNotNegativeDeposit" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -392,6 +433,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BankTest.checkOperationsHistory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="katabank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hharzallah.katabank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hharzallah.katabank" />
+      <option name="MAIN_CLASS_NAME" value="com.hharzallah.katabank.BankTest" />
+      <option name="METHOD_NAME" value="checkOperationsHistory" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BankTest.checkWithdrawalBalanceNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="katabank" />
       <extension name="coverage">
@@ -408,36 +465,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BankTest.checkWithdrawalBalancePositive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="katabank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hharzallah.katabank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.hharzallah.katabank" />
-      <option name="MAIN_CLASS_NAME" value="com.hharzallah.katabank.BankTest" />
-      <option name="METHOD_NAME" value="checkWithdrawalBalancePositive" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="JUnit.BankTest.checkDeposit" />
       <item itemvalue="JUnit.BankTest.checkWithdrawalBalanceNegative" />
-      <item itemvalue="JUnit.BankTest.checkWithdrawalBalancePositive" />
       <item itemvalue="JUnit.BankTest.checkOperations" />
       <item itemvalue="JUnit.BankTest" />
+      <item itemvalue="JUnit.BankTest.checkNotNegativeDeposit" />
+      <item itemvalue="JUnit.BankTest.checkOperationsHistory" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.BankTest" />
+        <item itemvalue="JUnit.BankTest.checkOperationsHistory" />
+        <item itemvalue="JUnit.BankTest.checkNotNegativeDeposit" />
         <item itemvalue="JUnit.BankTest.checkWithdrawalBalanceNegative" />
         <item itemvalue="JUnit.BankTest.checkOperations" />
-        <item itemvalue="JUnit.BankTest.checkWithdrawalBalancePositive" />
-        <item itemvalue="JUnit.BankTest.checkDeposit" />
       </list>
     </recent_temporary>
   </component>
@@ -454,44 +495,44 @@
       <workItem from="1541673707790" duration="9028000" />
       <workItem from="1542120616807" duration="676000" />
       <workItem from="1542192565979" duration="4737000" />
-      <workItem from="1542198152306" duration="826000" />
+      <workItem from="1542198152306" duration="7528000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BankTest_checkNotNegativeWithdrawal - 2018.11.14 at 12h 44m 05s.xml">
-      <configuration name="BankTest.checkNotNegativeWithdrawal" configurationId="JUnit" />
+    <history-entry file="BankTest_checkOperationsHistory - 2018.11.14 at 16h 39m 18s.xml">
+      <configuration name="BankTest.checkOperationsHistory" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BankTest_checkDeposit - 2018.11.14 at 12h 44m 13s.xml">
-      <configuration name="BankTest.checkDeposit" configurationId="JUnit" />
+    <history-entry file="BankTest_checkOperationsHistory - 2018.11.14 at 16h 43m 00s.xml">
+      <configuration name="BankTest.checkOperationsHistory" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BankTest_checkDeposit - 2018.11.14 at 12h 44m 45s.xml">
-      <configuration name="BankTest.checkDeposit" configurationId="JUnit" />
+    <history-entry file="BankTest_checkOperationsHistory - 2018.11.14 at 16h 44m 07s.xml">
+      <configuration name="BankTest.checkOperationsHistory" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BankTest_checkWithdrawalBalanceNegative - 2018.11.14 at 12h 44m 53s.xml">
-      <configuration name="BankTest.checkWithdrawalBalanceNegative" configurationId="JUnit" />
+    <history-entry file="BankTest_checkOperationsHistory - 2018.11.14 at 16h 46m 32s.xml">
+      <configuration name="BankTest.checkOperationsHistory" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BankTest_checkWithdrawalBalancePositive - 2018.11.14 at 12h 45m 02s.xml">
-      <configuration name="BankTest.checkWithdrawalBalancePositive" configurationId="JUnit" />
+    <history-entry file="BankTest_checkOperationsHistory - 2018.11.14 at 16h 47m 33s.xml">
+      <configuration name="BankTest.checkOperationsHistory" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BankTest_checkOperations - 2018.11.14 at 12h 45m 13s.xml">
-      <configuration name="BankTest.checkOperations" configurationId="JUnit" />
+    <history-entry file="BankTest_checkOperationsHistory - 2018.11.14 at 16h 49m 33s.xml">
+      <configuration name="BankTest.checkOperationsHistory" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BankTest_checkOperations - 2018.11.14 at 12h 46m 22s.xml">
-      <configuration name="BankTest.checkOperations" configurationId="JUnit" />
+    <history-entry file="BankTest_checkOperationsHistory - 2018.11.14 at 16h 50m 12s.xml">
+      <configuration name="BankTest.checkOperationsHistory" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BankTest_checkOperations - 2018.11.14 at 12h 47m 31s.xml">
-      <configuration name="BankTest.checkOperations" configurationId="JUnit" />
+    <history-entry file="BankTest_checkOperationsHistory - 2018.11.14 at 16h 51m 28s.xml">
+      <configuration name="BankTest.checkOperationsHistory" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BankTest_checkWithdrawalBalanceNegative - 2018.11.14 at 13h 45m 00s.xml">
-      <configuration name="BankTest.checkWithdrawalBalanceNegative" configurationId="JUnit" />
+    <history-entry file="BankTest_checkOperationsHistory - 2018.11.14 at 16h 51m 41s.xml">
+      <configuration name="BankTest.checkOperationsHistory" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BankTest - 2018.11.14 at 13h 45m 24s.xml">
-      <configuration name="BankTest" configurationId="JUnit" />
+    <history-entry file="BankTest_checkOperationsHistory - 2018.11.14 at 16h 53m 19s.xml">
+      <configuration name="BankTest.checkOperationsHistory" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15267000" />
+    <option name="totallyTimeSpent" value="21969000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -556,13 +597,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hharzallah/katabank/enums/OperationType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -582,49 +616,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hharzallah/katabank/services/BankService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hharzallah/katabank/commons/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        <state relative-caret-position="306">
+          <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1839#1840#0" expanded="true" />
-            <element signature="e#1869#1870#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hharzallah/katabank/commons/BankException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hharzallah/katabank/enums/OperationType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="34" />
+          <folding>
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hharzallah/katabank/entities/Account.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding>
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-            <element signature="e#464#465#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="357">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hharzallah/katabank/commons/Utils.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hharzallah/katabank/BankTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+        <state relative-caret-position="284">
+          <caret line="107" column="26" lean-forward="true" selection-start-line="107" selection-start-column="26" selection-end-line="107" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/hharzallah/katabank/BankTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hharzallah/katabank/services/BankService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+        <state relative-caret-position="361">
+          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#450#461#0" expanded="true" />
+            <element signature="e#2749#2750#0" expanded="true" />
+            <element signature="e#2779#2780#0" expanded="true" />
+            <element signature="e#1766#1767#0" expanded="true" />
+            <element signature="e#1799#1800#0" expanded="true" />
+            <element signature="e#1846#1847#0" expanded="true" />
+            <element signature="e#1884#1885#0" expanded="true" />
+            <element signature="e#1950#1951#0" expanded="true" />
+            <element signature="e#1994#1995#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
