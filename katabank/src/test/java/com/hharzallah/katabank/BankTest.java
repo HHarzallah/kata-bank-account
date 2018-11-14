@@ -1,9 +1,7 @@
 package com.hharzallah.katabank;
 
 import com.hharzallah.katabank.entities.Account;
-import com.hharzallah.katabank.entities.Operation;
 import com.hharzallah.katabank.services.BankService;
-import com.sun.org.apache.bcel.internal.generic.ACONST_NULL;
 import org.junit.Before;
 import org.junit.Test;
 
